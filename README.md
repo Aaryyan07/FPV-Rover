@@ -39,7 +39,7 @@ One of the main challenges with this build was electrical noise from the DC moto
 
 ![Wirings](images/ROVER_WIRINGS.jpeg)
 
-![Schematic](images/ROVER_KICAD_SCHEMATIC.jpeg)
+![Schematic](images/ROVER_KICAD_SCHEMATIC.png)
 ## Fabrication
 All mechanical parts (chassis, arm linkages, mounts) were 3D printed using **ABS filament** in the university mechanical lab. ABS was chosen over PLA for its higher heat resistance and durability.
 
